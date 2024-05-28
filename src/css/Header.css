@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 24px;
+}
+
+.header .icon {
+    size: 300px;
+    color: green;
+}
